@@ -7,7 +7,7 @@
 * Semester/Year: Fall 2024
 * Brief Description of the assignment: Solving Leetcode problem #10: Regular Expression Matching
 * Brief Description of what this module does: This module inputs string and pattern to implement regular expression matching
-* Citations: ChatGPT
+* Citations: ChatGPT and Gemini
 * Anything else that's relevant:
  */
 
